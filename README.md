@@ -1,7 +1,7 @@
 # MedSynIQ Lite
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![MedSynIQ Pro](https://img.shields.io/badge/Upgrade-MedSynIQ%20Pro-brightgreen)](https://proflowlabsai.com/medsyniq)
+[![MedSynIQ Pro](https://img.shields.io/badge/Upgrade-MedSynIQ%20Pro-brightgreen)](https://medsyniq.com)
 
 > **5 agents** | **20 skills** | **10 commands** | Free edition of MedSynIQ
 
@@ -13,7 +13,7 @@
 
 **The free edition of MedSynIQ** — medical intelligence for Claude Code, built by a physician. Covers the essentials: clinical reasoning, evidence-based medicine, pharmacology, biostatistics, and medical writing.
 
-Want the full system? **[MedSynIQ Pro](https://proflowlabsai.com/medsyniq)** includes 27 agents, 142 skills, 30 commands, 35 clinical specialties, multi-harness support, and backend API services.
+Want the full system? **[MedSynIQ Pro](https://medsyniq.com)** includes 27 agents, 142 skills, 30 commands, 35 clinical specialties, multi-harness support, and backend API services.
 
 ---
 
@@ -161,7 +161,7 @@ The free Lite edition covers the essentials. **Pro** is the full medical intelli
 | Contexts (clinical, research, review) | included | included |
 | Priority Support | - | included |
 
-**[Upgrade to MedSynIQ Pro](https://proflowlabsai.com/medsyniq)**
+**[Upgrade to MedSynIQ Pro](https://medsyniq.com)**
 
 ---
 
@@ -202,7 +202,7 @@ medsyniq-lite/
 
 MIT — free for personal and commercial use.
 
-For the full MedSynIQ Pro system, see [proflowlabsai.com/medsyniq](https://proflowlabsai.com/medsyniq).
+For the full MedSynIQ Pro system, see [medsyniq.com](https://medsyniq.com).
 
 ---
 
@@ -216,6 +216,6 @@ Built by a physician, for medical professionals. Powered by [Claude Code](https:
 
 **Built for medical professionals who build with AI.**
 
-[Get Started](#quick-start) · [View Skills](#20-skills) · [Commands](#10-commands) · [Upgrade to Pro](https://proflowlabsai.com/medsyniq)
+[Get Started](#quick-start) · [View Skills](#20-skills) · [Commands](#10-commands) · [Upgrade to Pro](https://medsyniq.com)
 
 </div>
