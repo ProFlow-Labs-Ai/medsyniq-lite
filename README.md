@@ -20,7 +20,8 @@ Want the full system? **[Codex Medicus Pro](https://proflowlabsai.com/codex-medi
 ## Quick Start
 
 ```bash
-claude plugins install codex-medicus-lite
+# One command — that's it
+claude plugins install github:proflowlabs-ai/codex-medicus-lite
 ```
 
 ```bash
