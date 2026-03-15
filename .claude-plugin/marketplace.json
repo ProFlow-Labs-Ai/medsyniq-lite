@@ -1,25 +1,25 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "codex-medicus-lite",
+  "name": "medsyniq-lite",
   "description": "Medical intelligence for Claude Code — free edition. 5 agents, 20 skills, 10 commands covering clinical reasoning, EBM, pharmacology, biostatistics, and medical writing.",
   "owner": {
     "name": "ProFlow Labs AI",
     "email": "contact@proflowlabsai.com"
   },
   "metadata": {
-    "description": "Free edition of Codex Medicus — medical intelligence for AI assistants, built by a physician"
+    "description": "Free edition of MedSynIQ — medical intelligence for AI assistants, built by a physician"
   },
   "plugins": [
     {
-      "name": "codex-medicus-lite",
+      "name": "medsyniq-lite",
       "source": "./",
       "description": "5 specialized medical agents, 20 skills, 10 commands for clinical reasoning, evidence-based medicine, pharmacology, biostatistics, and medical writing",
       "version": "1.0.0",
       "author": {
         "name": "ProFlow Labs AI"
       },
-      "homepage": "https://github.com/ProFlow-Labs-Ai/codex-medicus-lite",
-      "repository": "https://github.com/ProFlow-Labs-Ai/codex-medicus-lite",
+      "homepage": "https://github.com/ProFlow-Labs-Ai/medsyniq-lite",
+      "repository": "https://github.com/ProFlow-Labs-Ai/medsyniq-lite",
       "license": "PROPRIETARY",
       "keywords": [
         "medical",

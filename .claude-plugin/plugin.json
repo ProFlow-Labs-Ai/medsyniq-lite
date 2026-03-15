@@ -1,13 +1,13 @@
 {
-  "name": "codex-medicus-lite",
+  "name": "medsyniq-lite",
   "version": "1.0.0",
-  "description": "Medical intelligence for Claude Code — 5 agents, 20 skills, 10 commands. Free edition of Codex Medicus covering clinical reasoning, EBM, pharmacology, biostatistics, and medical writing.",
+  "description": "Medical intelligence for Claude Code — 5 agents, 20 skills, 10 commands. Free edition of MedSynIQ covering clinical reasoning, EBM, pharmacology, biostatistics, and medical writing.",
   "author": {
     "name": "ProFlow Labs AI",
     "url": "https://github.com/proflowlabs-ai"
   },
-  "homepage": "https://github.com/proflowlabs-ai/codex-medicus-lite",
-  "repository": "https://github.com/proflowlabs-ai/codex-medicus-lite",
+  "homepage": "https://github.com/proflowlabs-ai/medsyniq-lite",
+  "repository": "https://github.com/proflowlabs-ai/medsyniq-lite",
   "license": "MIT",
   "keywords": [
     "claude-code",

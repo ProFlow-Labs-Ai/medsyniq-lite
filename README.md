@@ -1,9 +1,9 @@
-# Codex Medicus Lite
+# MedSynIQ Lite
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Codex Medicus Pro](https://img.shields.io/badge/Upgrade-Codex%20Medicus%20Pro-brightgreen)](https://proflowlabsai.com/codex-medicus)
+[![MedSynIQ Pro](https://img.shields.io/badge/Upgrade-MedSynIQ%20Pro-brightgreen)](https://proflowlabsai.com/medsyniq)
 
-> **5 agents** | **20 skills** | **10 commands** | Free edition of Codex Medicus
+> **5 agents** | **20 skills** | **10 commands** | Free edition of MedSynIQ
 
 ---
 
@@ -11,9 +11,9 @@
 
 ---
 
-**The free edition of Codex Medicus** — medical intelligence for Claude Code, built by a physician. Covers the essentials: clinical reasoning, evidence-based medicine, pharmacology, biostatistics, and medical writing.
+**The free edition of MedSynIQ** — medical intelligence for Claude Code, built by a physician. Covers the essentials: clinical reasoning, evidence-based medicine, pharmacology, biostatistics, and medical writing.
 
-Want the full system? **[Codex Medicus Pro](https://proflowlabsai.com/codex-medicus)** includes 27 agents, 142 skills, 30 commands, 35 clinical specialties, multi-harness support, and backend API services.
+Want the full system? **[MedSynIQ Pro](https://proflowlabsai.com/medsyniq)** includes 27 agents, 142 skills, 30 commands, 35 clinical specialties, multi-harness support, and backend API services.
 
 ---
 
@@ -21,7 +21,7 @@ Want the full system? **[Codex Medicus Pro](https://proflowlabsai.com/codex-medi
 
 ```bash
 # One command — that's it
-claude plugins install github:proflowlabs-ai/codex-medicus-lite
+claude plugins install github:proflowlabs-ai/medsyniq-lite
 ```
 
 ```bash
@@ -139,7 +139,7 @@ claude plugins install github:proflowlabs-ai/codex-medicus-lite
 
 ---
 
-## What's in Codex Medicus Pro?
+## What's in MedSynIQ Pro?
 
 The free Lite edition covers the essentials. **Pro** is the full medical intelligence system:
 
@@ -161,7 +161,7 @@ The free Lite edition covers the essentials. **Pro** is the full medical intelli
 | Contexts (clinical, research, review) | included | included |
 | Priority Support | - | included |
 
-**[Upgrade to Codex Medicus Pro](https://proflowlabsai.com/codex-medicus)**
+**[Upgrade to MedSynIQ Pro](https://proflowlabsai.com/medsyniq)**
 
 ---
 
@@ -178,7 +178,7 @@ The free Lite edition covers the essentials. **Pro** is the full medical intelli
 ## Architecture
 
 ```
-codex-medicus-lite/
+medsyniq-lite/
 ├── agents/           — 5 core medical agents
 ├── skills/           — 20 essential skills
 │   ├── clinical-reasoning/   (5)
@@ -202,7 +202,7 @@ codex-medicus-lite/
 
 MIT — free for personal and commercial use.
 
-For the full Codex Medicus Pro system, see [proflowlabsai.com/codex-medicus](https://proflowlabsai.com/codex-medicus).
+For the full MedSynIQ Pro system, see [proflowlabsai.com/medsyniq](https://proflowlabsai.com/medsyniq).
 
 ---
 
@@ -216,6 +216,6 @@ Built by a physician, for medical professionals. Powered by [Claude Code](https:
 
 **Built for medical professionals who build with AI.**
 
-[Get Started](#quick-start) · [View Skills](#20-skills) · [Commands](#10-commands) · [Upgrade to Pro](https://proflowlabsai.com/codex-medicus)
+[Get Started](#quick-start) · [View Skills](#20-skills) · [Commands](#10-commands) · [Upgrade to Pro](https://proflowlabsai.com/medsyniq)
 
 </div>
