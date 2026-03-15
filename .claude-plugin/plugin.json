@@ -1,0 +1,21 @@
+{
+  "name": "codex-medicus-lite",
+  "version": "1.0.0",
+  "description": "Medical intelligence for Claude Code — 5 agents, 20 skills, 10 commands. Free edition of Codex Medicus covering clinical reasoning, EBM, pharmacology, biostatistics, and medical writing.",
+  "author": {
+    "name": "Brain Bytes",
+    "url": "https://github.com/brainbytes-dev"
+  },
+  "homepage": "https://github.com/brainbytes-dev/codex-medicus-lite",
+  "repository": "https://github.com/brainbytes-dev/codex-medicus-lite",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "medical",
+    "clinical-reasoning",
+    "evidence-based-medicine",
+    "pharmacology",
+    "biostatistics",
+    "medical-writing"
+  ]
+}

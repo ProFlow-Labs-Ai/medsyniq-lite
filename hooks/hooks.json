@@ -1,0 +1,57 @@
+{
+  "hooks": [
+    {
+      "type": "PostToolUse",
+      "matcher": "Write|Edit",
+      "hooks": [
+        {
+          "command": "node ${CLAUDE_PLUGIN_ROOT}/scripts/hooks/evidence-level-check.js",
+          "description": "Scan for clinical claims missing evidence level annotations (GRADE/CEBM)",
+          "timeout": 10
+        },
+        {
+          "command": "node ${CLAUDE_PLUGIN_ROOT}/scripts/hooks/drug-interaction-warning.js",
+          "description": "Pattern-match drug names and flag critical interaction pairs",
+          "timeout": 15
+        },
+        {
+          "command": "node ${CLAUDE_PLUGIN_ROOT}/scripts/hooks/disclaimer-check.js",
+          "description": "Verify clinical content includes a disclaimer or educational-purpose notice",
+          "timeout": 10
+        },
+        {
+          "command": "node ${CLAUDE_PLUGIN_ROOT}/scripts/hooks/patient-data-guard.js",
+          "description": "Scan for PHI patterns (MRN, DOB, phone, email) for HIPAA/GDPR compliance",
+          "timeout": 10
+        },
+        {
+          "command": "node ${CLAUDE_PLUGIN_ROOT}/scripts/hooks/post-content-quality.js",
+          "description": "Check for absolute claims, unsupported superlatives, and appropriate uncertainty language",
+          "timeout": 10
+        }
+      ]
+    },
+    {
+      "type": "SessionStart",
+      "matcher": "*",
+      "hooks": [
+        {
+          "command": "node ${CLAUDE_PLUGIN_ROOT}/scripts/hooks/session-start.js",
+          "description": "Display welcome message with available medical commands and active hooks",
+          "timeout": 5
+        }
+      ]
+    },
+    {
+      "type": "Stop",
+      "matcher": "*",
+      "hooks": [
+        {
+          "command": "echo '\\n⚠️  Clinical Review Reminder: All medical content generated in this session should be reviewed by a qualified healthcare professional before use in patient care. AI-generated content does not constitute medical advice.\\n'",
+          "description": "Remind user to perform clinical review before using any generated content",
+          "timeout": 5
+        }
+      ]
+    }
+  ]
+}
