@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Medical intelligence for Claude Code — 5 agents, 20 skills, 10 commands. Free edition of Codex Medicus covering clinical reasoning, EBM, pharmacology, biostatistics, and medical writing.",
   "author": {
-    "name": "Brain Bytes",
-    "url": "https://github.com/brainbytes-dev"
+    "name": "ProFlow Labs AI",
+    "url": "https://github.com/proflowlabs-ai"
   },
-  "homepage": "https://github.com/brainbytes-dev/codex-medicus-lite",
-  "repository": "https://github.com/brainbytes-dev/codex-medicus-lite",
+  "homepage": "https://github.com/proflowlabs-ai/codex-medicus-lite",
+  "repository": "https://github.com/proflowlabs-ai/codex-medicus-lite",
   "license": "MIT",
   "keywords": [
     "claude-code",

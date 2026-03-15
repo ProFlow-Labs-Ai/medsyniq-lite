@@ -1,7 +1,7 @@
 # Codex Medicus Lite
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Codex Medicus Pro](https://img.shields.io/badge/Upgrade-Codex%20Medicus%20Pro-brightgreen)](https://brainbytes.dev/codex-medicus)
+[![Codex Medicus Pro](https://img.shields.io/badge/Upgrade-Codex%20Medicus%20Pro-brightgreen)](https://proflowlabsai.com/codex-medicus)
 
 > **5 agents** | **20 skills** | **10 commands** | Free edition of Codex Medicus
 
@@ -13,7 +13,7 @@
 
 **The free edition of Codex Medicus** — medical intelligence for Claude Code, built by a physician. Covers the essentials: clinical reasoning, evidence-based medicine, pharmacology, biostatistics, and medical writing.
 
-Want the full system? **[Codex Medicus Pro](https://brainbytes.dev/codex-medicus)** includes 27 agents, 142 skills, 30 commands, 35 clinical specialties, multi-harness support, and backend API services.
+Want the full system? **[Codex Medicus Pro](https://proflowlabsai.com/codex-medicus)** includes 27 agents, 142 skills, 30 commands, 35 clinical specialties, multi-harness support, and backend API services.
 
 ---
 
@@ -160,7 +160,7 @@ The free Lite edition covers the essentials. **Pro** is the full medical intelli
 | Contexts (clinical, research, review) | included | included |
 | Priority Support | - | included |
 
-**[Upgrade to Codex Medicus Pro](https://brainbytes.dev/codex-medicus)**
+**[Upgrade to Codex Medicus Pro](https://proflowlabsai.com/codex-medicus)**
 
 ---
 
@@ -201,7 +201,7 @@ codex-medicus-lite/
 
 MIT — free for personal and commercial use.
 
-For the full Codex Medicus Pro system, see [brainbytes.dev/codex-medicus](https://brainbytes.dev/codex-medicus).
+For the full Codex Medicus Pro system, see [proflowlabsai.com/codex-medicus](https://proflowlabsai.com/codex-medicus).
 
 ---
 
@@ -215,6 +215,6 @@ Built by a physician, for medical professionals. Powered by [Claude Code](https:
 
 **Built for medical professionals who build with AI.**
 
-[Get Started](#quick-start) · [View Skills](#20-skills) · [Commands](#10-commands) · [Upgrade to Pro](https://brainbytes.dev/codex-medicus)
+[Get Started](#quick-start) · [View Skills](#20-skills) · [Commands](#10-commands) · [Upgrade to Pro](https://proflowlabsai.com/codex-medicus)
 
 </div>
